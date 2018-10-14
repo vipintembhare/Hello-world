@@ -8,7 +8,8 @@ docker ps -a -q | ForEach { docker stop $_ }
 
 AWS SQS and SNS
 https://www.bountysource.com/teams/spring-cloud/issues?tracker_ids=7680837
-
+Localstack Commands
+https://lobster1234.github.io/2017/04/05/working-with-localstack-command-line/
 Referenced github links for spring cloud aws
 https://github.com/spring-cloud-samples/aws-refapp/blob/master/src/main/java/org/springframework/cloud/aws/sample/sqs/SqsController.java
 
