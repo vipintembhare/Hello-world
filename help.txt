@@ -18,3 +18,11 @@ netstat -ano | findstr :<yourPortNumber>
 taskkill /PID <typeyourPIDhere> /F
 
 https://docs.spring.io/spring/docs/current/spring-framework-reference/integration.html#jms
+
+Lombok
+If you use STS. You must have Lombok installed in your Eclipse by running lombok-xyz.jar
+Please Try the Following the Steps:
+Include pom in Maven .
+Exit/Shutdown STS
+Find lombok Jar in ~/.m2/repository/org/projectlombok/lombok/version.x
+From Command Prompt/Shell java -jar lombok-1.x.y.jar 
