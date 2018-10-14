@@ -1,3 +1,7 @@
 Docker on windwissue - docker-compose bind mount docker.sock not a valid Windows path
 Set env variable COMPOSE_CONVERT_WINDOWS_PATHS=1
 https://github.com/docker/for-win/issues/1829
+
+AWS SQS and SNS
+https://www.bountysource.com/teams/spring-cloud/issues?tracker_ids=7680837
+
