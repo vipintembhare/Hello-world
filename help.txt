@@ -5,3 +5,5 @@ https://github.com/docker/for-win/issues/1829
 AWS SQS and SNS
 https://www.bountysource.com/teams/spring-cloud/issues?tracker_ids=7680837
 
+Referenced github links for spring cloud aws
+https://github.com/spring-cloud-samples/aws-refapp/blob/master/src/main/java/org/springframework/cloud/aws/sample/sqs/SqsController.java
