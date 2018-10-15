@@ -26,3 +26,6 @@ Include pom in Maven .
 Exit/Shutdown STS
 Find lombok Jar in ~/.m2/repository/org/projectlombok/lombok/version.x
 From Command Prompt/Shell java -jar lombok-1.x.y.jar 
+
+#SSL issues
+http://magicmonster.com/kb/prg/java/ssl/pkix_path_building_failed.html
