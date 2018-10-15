@@ -1,4 +1,4 @@
-Docker on windosw issue - docker-compose bind mount docker.sock not a valid Windows path
+# Docker on windosw issue - docker-compose bind mount docker.sock not a valid Windows path
 Set env variable COMPOSE_CONVERT_WINDOWS_PATHS=1
 https://github.com/docker/for-win/issues/1829
 
@@ -6,20 +6,20 @@ Windows Powershell to stop all running containers:
 docker ps -a -q | ForEach { docker stop $_ }
 
 
-AWS SQS and SNS
+# AWS SQS and SNS
 https://www.bountysource.com/teams/spring-cloud/issues?tracker_ids=7680837
 Localstack Commands
 https://lobster1234.github.io/2017/04/05/working-with-localstack-command-line/
 Referenced github links for spring cloud aws
 https://github.com/spring-cloud-samples/aws-refapp/blob/master/src/main/java/org/springframework/cloud/aws/sample/sqs/SqsController.java
 
-find process running on port and kill process on Windows
+# find process running on port and kill process on Windows
 netstat -ano | findstr :<yourPortNumber>
 taskkill /PID <typeyourPIDhere> /F
 
 https://docs.spring.io/spring/docs/current/spring-framework-reference/integration.html#jms
 
-Lombok
+# Lombok
 If you use STS. You must have Lombok installed in your Eclipse by running lombok-xyz.jar
 Please Try the Following the Steps:
 Include pom in Maven .
