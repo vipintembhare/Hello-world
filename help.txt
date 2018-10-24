@@ -32,3 +32,6 @@ http://magicmonster.com/kb/prg/java/ssl/pkix_path_building_failed.html
 
 sqslistener-with-threadpoolexecutor
 https://stackoverflow.com/questions/50070384/sqslistener-with-threadpoolexecutor
+
+Rules of threadpoolExecutor Poolsize
+http://www.bigsoft.co.uk/blog/2009/11/27/rules-of-a-threadpoolexecutor-pool-size
