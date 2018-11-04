@@ -10,3 +10,9 @@ Classloaders
 https://stackoverflow.com/questions/15250656/how-is-the-classloader-for-a-class-chosen
 https://stackoverflow.com/questions/15248405/how-classloader-determines-which-classes-it-can-load
 Search = classworlds
+
+ChromeOptions chromeOptions = new ChromeOptions();
+  	 chromeOptions.addExtensions(new File("C:\\\\chrome\\\\SAML-to-AWS-STS-Keys-Conversion_v2.4.crx"));
+     DesiredCapabilities capabilities = new DesiredCapabilities();
+     capabilities.setCapability(ChromeOptions.CAPABILITY, chromeOptions);
+  	  WebDriver driver = new ChromeDriver(capabilities);
