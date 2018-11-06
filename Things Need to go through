@@ -14,8 +14,4 @@ Search = classworlds
 https://github.com/spring-cloud/spring-cloud-aws/issues/334
 
 
-ChromeOptions chromeOptions = new ChromeOptions();
-  	 chromeOptions.addExtensions(new File("C:\\\\chrome\\\\SAML-to-AWS-STS-Keys-Conversion_v2.4.crx"));
-     DesiredCapabilities capabilities = new DesiredCapabilities();
-     capabilities.setCapability(ChromeOptions.CAPABILITY, chromeOptions);
-  	  WebDriver driver = new ChromeDriver(capabilities);
+https://github.com/spring-cloud/spring-cloud-aws/issues/193
