@@ -13,6 +13,11 @@ https://lobster1234.github.io/2017/04/05/working-with-localstack-command-line/
 Referenced github links for spring cloud aws
 https://github.com/spring-cloud-samples/aws-refapp/blob/master/src/main/java/org/springframework/cloud/aws/sample/sqs/SqsController.java
 
+#git discard all changes and pull from upstream
+git reset --hard origin/master
+git pull origin master
+
+
 # find process running on port and kill process on Windows
 netstat -ano | findstr :<yourPortNumber>
 taskkill /PID <typeyourPIDhere> /F
