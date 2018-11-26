@@ -42,3 +42,7 @@ Rules of threadpoolExecutor Poolsize
 http://www.bigsoft.co.uk/blog/2009/11/27/rules-of-a-threadpoolexecutor-pool-size
 JMS Patterns
 https://docs.oracle.com/cd/E13171_01/alsb/docs25/interopjms/MsgIDPatternforJMS.html
+
+PowerMock
+
+https://stackoverflow.com/questions/20754432/powermock-mockito-not-working
