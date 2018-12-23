@@ -46,3 +46,9 @@ https://docs.oracle.com/cd/E13171_01/alsb/docs25/interopjms/MsgIDPatternforJMS.h
 PowerMock
 
 https://stackoverflow.com/questions/20754432/powermock-mockito-not-working
+
+
+Custom scopes in spring:
+https://stackoverflow.com/questions/50477894/spring-custom-scope-lifecycle-bean-termination
+http://iryndin.net/post/spring_destroy_prototype_beans/
+https://www.javadevjournal.com/spring/spring-custom-scope/
