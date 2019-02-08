@@ -15,3 +15,6 @@ https://github.com/spring-cloud/spring-cloud-aws/issues/334
 
 
 https://github.com/spring-cloud/spring-cloud-aws/issues/193
+
+Another own Maven project as dependency - how to solve it?
+https://stackoverflow.com/questions/19963848/another-own-maven-project-as-dependency-how-to-solve-it?noredirect=1&lq=1
