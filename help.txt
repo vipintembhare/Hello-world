@@ -60,3 +60,4 @@ https://www.javadevjournal.com/spring/spring-custom-scope/
 Spring Cache with EHCache
 https://stackoverflow.com/questions/26927044/how-to-load-data-from-database-to-ehcache-when-the-application-starts
 https://javaglobin.wordpress.com/2013/11/13/declarative-caching-with-spring/
+http://www.ehcache.org/blog/2016/05/18/ehcache3_jsr107_spring.html
