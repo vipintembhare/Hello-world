@@ -56,3 +56,6 @@ Custom scopes in spring:
 https://stackoverflow.com/questions/50477894/spring-custom-scope-lifecycle-bean-termination
 http://iryndin.net/post/spring_destroy_prototype_beans/
 https://www.javadevjournal.com/spring/spring-custom-scope/
+
+Spring Cache with EHCache
+https://stackoverflow.com/questions/26927044/how-to-load-data-from-database-to-ehcache-when-the-application-starts
