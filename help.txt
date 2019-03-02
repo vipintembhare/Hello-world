@@ -67,3 +67,6 @@ Completable Future
 https://www.nurkiewicz.com/2015/11/which-thread-executes.html
 https://medium.com/@senanayake.kalpa/fantastic-completablefuture-allof-and-how-to-handle-errors-27e8a97144a0
 https://www.nurkiewicz.com/2014/11/executorservice-10-tips-and-tricks.html
+
+5 things you didn't know about ...Multithreaded Java programming
+https://www.ibm.com/developerworks/library/j-5things15/index.html
