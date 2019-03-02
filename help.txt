@@ -62,3 +62,8 @@ https://stackoverflow.com/questions/26927044/how-to-load-data-from-database-to-e
 https://javaglobin.wordpress.com/2013/11/13/declarative-caching-with-spring/
 http://www.ehcache.org/blog/2016/05/18/ehcache3_jsr107_spring.html
 https://stackoverflow.com/questions/52518312/cacheable-doesnt-intercept-the-method-cache-is-always-empty
+
+Completable Future
+https://www.nurkiewicz.com/2015/11/which-thread-executes.html
+https://medium.com/@senanayake.kalpa/fantastic-completablefuture-allof-and-how-to-handle-errors-27e8a97144a0
+https://www.nurkiewicz.com/2014/11/executorservice-10-tips-and-tricks.html
