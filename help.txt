@@ -70,3 +70,7 @@ https://www.nurkiewicz.com/2014/11/executorservice-10-tips-and-tricks.html
 
 5 things you didn't know about ...Multithreaded Java programming
 https://www.ibm.com/developerworks/library/j-5things15/index.html
+
+
+AWS study material
+https://www.quora.com/How-did-you-prepare-for-AWS-Certified-Solutions-Architect-Associate-Level-certification#
