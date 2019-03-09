@@ -75,5 +75,8 @@ https://www.ibm.com/developerworks/library/j-5things15/index.html
 AWS study material
 https://www.quora.com/How-did-you-prepare-for-AWS-Certified-Solutions-Architect-Associate-Level-certification#
 
-
+pause listening messages in jMS listener
 https://stackoverflow.com/questions/625725/how-to-temporarily-disable-a-message-listener
+
+JmsTemplate using CachingConnectionFactory, async sends
+http://chriswongdevblog.blogspot.com/2013/01/jmstemplate-is-not-evil.html =Cache
