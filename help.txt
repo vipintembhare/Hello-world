@@ -88,3 +88,6 @@ https://bsnyderblog.blogspot.com/2010/05/tuning-jms-message-consumption-in.html
 
 Tuning RestTemplate
 https://tech.asimio.net/2016/12/27/Troubleshooting-Spring-RestTemplate-Requests-Timeout.html
+
+JMS hystrix
+https://github.com/soudmaijer/spring-jms-hystrix
