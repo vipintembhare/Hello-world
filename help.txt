@@ -80,3 +80,7 @@ https://stackoverflow.com/questions/625725/how-to-temporarily-disable-a-message-
 
 JmsTemplate using CachingConnectionFactory, async sends
 http://chriswongdevblog.blogspot.com/2013/01/jmstemplate-is-not-evil.html =Cache
+JMS tuning
+https://bsnyderblog.blogspot.com/2010/02/using-spring-jmstemplate-to-send-jms.html
+https://bsnyderblog.blogspot.com/2010/05/tuning-jms-message-consumption-in.html
+https://bsnyderblog.blogspot.com/2010/05/tuning-jms-message-consumption-in.html
