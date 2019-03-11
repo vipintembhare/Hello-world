@@ -39,10 +39,6 @@ sqslistener-with-threadpoolexecutor
 https://stackoverflow.com/questions/50070384/sqslistener-with-threadpoolexecutor
 
 
-aws document DB connection
-https://braytonstafford.com/2018/03/27/importing-aws-rds-pem-certificate-to-java-keystore/
-
-
 MYSQL running on Windows
 https://stackoverflow.com/questions/13752424/how-to-connect-from-windows-command-prompt-to-mysql-command-line
 
@@ -95,3 +91,9 @@ https://tech.asimio.net/2016/12/27/Troubleshooting-Spring-RestTemplate-Requests-
 
 JMS hystrix
 https://github.com/soudmaijer/spring-jms-hystrix
+
+
+
+aws document DB connection
+https://braytonstafford.com/2018/03/27/importing-aws-rds-pem-certificate-to-java-keystore/
+https://stackoverflow.com/questions/54230901/attaching-aws-documentdb-to-spring-boot-application
