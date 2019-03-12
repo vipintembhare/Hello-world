@@ -34,6 +34,7 @@ From Command Prompt/Shell java -jar lombok-1.x.y.jar
 
 #SSL issues
 http://magicmonster.com/kb/prg/java/ssl/pkix_path_building_failed.html
+http://www.javasavvy.com/import-ssl-certificate-into-java-keystore/
 
 sqslistener-with-threadpoolexecutor
 https://stackoverflow.com/questions/50070384/sqslistener-with-threadpoolexecutor
