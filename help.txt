@@ -102,3 +102,5 @@ https://stackoverflow.com/questions/54230901/attaching-aws-documentdb-to-spring-
 
 //Shopping cart
 https://o7planning.org/en/10683/create-a-shopping-cart-web-application-with-spring-boot-hibernate#a14223762
+Insert image into H2 DB
+https://stackoverflow.com/questions/38353487/insert-blob-from-a-file-into-a-sql-script-to-embed-h2-database
