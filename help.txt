@@ -13,6 +13,11 @@ https://lobster1234.github.io/2017/04/05/working-with-localstack-command-line/
 Referenced github links for spring cloud aws
 https://github.com/spring-cloud-samples/aws-refapp/blob/master/src/main/java/org/springframework/cloud/aws/sample/sqs/SqsController.java
 
+#Stack for i-fxxxxxx does not exist AWS Cloud Starter
+https://stackoverflow.com/questions/45818092/spring-boot-startup-error-for-aws-application-there-is-not-ec2-meta-data-avail
+https://github.com/spring-cloud/spring-cloud-aws/issues/121
+
+
 #git discard all changes and pull from upstream
 git reset --hard origin/master
 git pull origin master
