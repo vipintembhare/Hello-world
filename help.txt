@@ -108,3 +108,6 @@ https://stackoverflow.com/questions/38353487/insert-blob-from-a-file-into-a-sql-
 Thymleaf
 https://stackoverflow.com/questions/26632529/how-to-set-servletcontext-property-for-a-bean-in-spring-xml-metadata-configurati
 https://stackoverflow.com/questions/38057341/failed-to-instantiate-org-thymeleaf-templateresolver-servletcontexttemplatereso
+
+
+https://stackoverflow.com/questions/48089021/spring-test-cannot-get-spring-configuration-beans
