@@ -22,6 +22,9 @@ http://cloud.spring.io/spring-cloud-aws/spring-cloud-aws.html#_annotation_driven
 https://stackoverflow.com/questions/36040800/spring-aws-cloud-sns-http-end-point-confirm-subscription-not-working
 https://github.com/spring-cloud/spring-cloud-aws/blob/147420f4d86806b921d4d7533813d11d73692fb5/spring-cloud-aws-messaging/src/main/java/org/springframework/cloud/aws/messaging/config/annotation/SnsWebConfiguration.java
 
+#Read file from S3  using lambda 
+https://stackoverflow.com/questions/30651502/how-to-get-contents-of-a-text-file-from-aws-s3-using-a-lambda-function
+
 
 #git discard all changes and pull from upstream
 git reset --hard origin/master
