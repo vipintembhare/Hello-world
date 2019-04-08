@@ -31,6 +31,8 @@ https://aws.amazon.com/blogs/mobile/invoking-aws-lambda-functions-via-amazon-sns
 
 #aws lambda with spring boot
 https://github.com/awslabs/aws-serverless-java-container/wiki/Quick-start---Spring-Boot
+Handler class not FoundException
+https://stackoverflow.com/questions/36081908/using-spring-boot-cloud-with-amazon-aws-lambda-does-not-inject-values
 
 #git discard all changes and pull from upstream
 git reset --hard origin/master
