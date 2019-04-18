@@ -146,3 +146,7 @@ https://www.youtube.com/watch?v=arxCYazXJ_g
 
 #SKIP SSL CERTIFICATE VERIFICATION IN SPRING REST TEMPLATE
 https://blog.codeleak.pl/2016/02/skip-ssl-certificate-verification-in.html
+
+
+#Maven assembly - zipiing classes
+https://github.com/aws/aws-lambda-java-libs/issues/2#issuecomment-314539625
