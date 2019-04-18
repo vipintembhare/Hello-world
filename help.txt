@@ -140,3 +140,5 @@ https://stackoverflow.com/questions/48089021/spring-test-cannot-get-spring-confi
 
 Lambda SSL issues
 https://medium.com/i-me-myself-naveen/java-ssl-within-aws-lambda-39f87c1c03f2
+Calling SSL enabled RESTful service from JAVA
+https://www.youtube.com/watch?v=arxCYazXJ_g
