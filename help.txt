@@ -137,3 +137,6 @@ https://stackoverflow.com/questions/38057341/failed-to-instantiate-org-thymeleaf
 
 
 https://stackoverflow.com/questions/48089021/spring-test-cannot-get-spring-configuration-beans
+
+Lambda SSL issues
+https://medium.com/i-me-myself-naveen/java-ssl-within-aws-lambda-39f87c1c03f2
