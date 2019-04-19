@@ -150,3 +150,6 @@ https://blog.codeleak.pl/2016/02/skip-ssl-certificate-verification-in.html
 
 #Maven assembly - zipiing classes
 https://github.com/aws/aws-lambda-java-libs/issues/2#issuecomment-314539625
+
+# Spring boot and aws parameter store
+https://source.coveo.com/2018/08/03/spring-boot-and-aws-parameter-store/
