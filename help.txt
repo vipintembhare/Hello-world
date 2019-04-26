@@ -153,3 +153,6 @@ https://github.com/aws/aws-lambda-java-libs/issues/2#issuecomment-314539625
 
 # Spring boot and aws parameter store
 https://source.coveo.com/2018/08/03/spring-boot-and-aws-parameter-store/
+
+//Testing async methods with Mockito
+https://fernandocejas.com/2014/04/08/unit-testing-asynchronous-methods-with-mockito/
