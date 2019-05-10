@@ -162,3 +162,6 @@ https://stackoverflow.com/questions/14124110/spring-mvc-testframework-fails-with
 #solution which worked
 https://stackoverflow.com/questions/17972428/mock-mvc-add-request-parameter-to-test
 https://stackoverflow.com/questions/24044553/spring-controller-integration-test-fails-to-parse-response-and-fails-the-test-wi
+
+#spring-mvc-webapp-schedule-java-sdk-http-connection-reaper-failed-to-stop
+https://stackoverflow.com/questions/18069042/spring-mvc-webapp-schedule-java-sdk-http-connection-reaper-failed-to-stop
