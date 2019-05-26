@@ -36,14 +36,34 @@ Load balancing type:
    SSL offloading
    Sticky session
    High availability
-   Layer 4 and Layer 7
+   Layer 4 and Layer 7 of OSI model
    
 ELB is regional service
    Working with multiple AZ in single regional/  for multiple region , use Route 53 load balancing
    Cross zone load balancing - required in application load balancers
    Load balancing nodes - amazon VPC - managed by AWS.
    
+ Application Load Balancers
  
-   
+ ALB -> Listeners -> Target groups
+ Listener -> Rules likes HTTP 8080 -> Target group 1
+  Listener -> Rules likes HTTPS 443 -> Target group 3
+  Target/Host conditions, Path conditions
+  Host based routing -> supports for multiple domains using single load balancer
+  Path based routing -> enables supports for microservices
+  Integration with Amazon ECS supportd registering tasks with target groups
+
+Network Load balancers  
+  NLB ->   TCP based 
+  Elastic IP 2 - > AZ1
+  Elsatic IP 2 - > AZ 2
+  in AZ- > choose Elastic IP address'
+  ALB - > Cross zone is enabled by default. But not in NLB
+
+Classic Load balancer
+  Legacy model
+  
+Route 53 -> Records sets -> DNS ->  Routing Policy -> weighted,simple
+Route 53 - > gives ability health checks
    
    
