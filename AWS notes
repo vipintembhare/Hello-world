@@ -1,0 +1,49 @@
+AWS load balancers:
+  Internet Facing 
+  Internal only
+
+ELB constantly do the health checks.
+diff. AWS availabilty zones
+
+DNS name will be given to ELB.
+CNAME alias to resolve the DNS names.
+
+Benefits of ELB
+Highly available
+Secure - SSL support, user auth
+Elasticity - its managed service.
+supports hybrid cloud.
+
+Load balancing type:
+1. Application Load Balancer - Layer 7 load balancing -  optimized for HTTP and HTTPS
+  Server Name Indication (SNI) - single listener for multiple domain, -> handled diff. SSL for diff domains
+  IP address as targets
+  Lambda functions as targets
+  Host/path-based routing
+  Containerized application support
+  Sticky sessions
+  Security - user auth and WAF
+  
+2.Network Load Balancers
+  Layer 4 load balancing - TCP traffic
+  Supports millions req/sec
+  Preserve source IP
+  High throughput/low latency
+  Static and Elastic support
+  
+3. Classic Load Balancers - legacy EC2 - classic network
+   not recommended for VPC
+   SSL offloading
+   Sticky session
+   High availability
+   Layer 4 and Layer 7
+   
+ELB is regional service
+   Working with multiple AZ in single regional/  for multiple region , use Route 53 load balancing
+   Cross zone load balancing - required in application load balancers
+   Load balancing nodes - amazon VPC - managed by AWS.
+   
+ 
+   
+   
+   
