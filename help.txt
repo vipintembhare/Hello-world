@@ -165,3 +165,6 @@ https://stackoverflow.com/questions/24044553/spring-controller-integration-test-
 
 #spring-mvc-webapp-schedule-java-sdk-http-connection-reaper-failed-to-stop
 https://stackoverflow.com/questions/18069042/spring-mvc-webapp-schedule-java-sdk-http-connection-reaper-failed-to-stop
+
+#KMS Service
+https://github.com/devender/envelope-encryption-aws/tree/master/src/main/java/com/gdr/aws/kms 
