@@ -66,4 +66,14 @@ Classic Load balancer
 Route 53 -> Records sets -> DNS ->  Routing Policy -> weighted,simple
 Route 53 - > gives ability health checks
    
-   
+Amazon CI /CD
+https://aws.amazon.com/products/developer-tools/
+https://www.youtube.com/watch?v=77HvSGyBVdU
+https://www.youtube.com/watch?v=Jnl29J3RJQ4
+https://www.youtube.com/watch?v=01ewawuL-IY
+https://www.youtube.com/watch?v=YDOrsVJiDxA
+https://jenkins.io/blog/2016/06/10/save-costs-with-ec2-spot-fleet/
+https://aws.amazon.com/blogs/devops/simplify-your-jenkins-builds-with-aws-codebuild/
+https://aws.amazon.com/blogs/devops/use-aws-codedeploy-to-implement-blue-green-deployments-for-aws-fargate-and-amazon-ecs/
+https://aws.amazon.com/blogs/devops/using-aws-codepipeline-to-perform-multi-region-deployments/
+https://aws.amazon.com/blogs/devops/aws-building-a-secure-cross-account-continuous-delivery-pipeline/
