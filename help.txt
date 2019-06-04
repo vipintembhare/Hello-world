@@ -171,3 +171,10 @@ https://github.com/devender/envelope-encryption-aws/tree/master/src/main/java/co
 
 #Spring Transactional Isolation Propogation
 https://stackoverflow.com/questions/8490852/spring-transactional-isolation-propagation
+
+
+#AWS Athena
+https://docs.aws.amazon.com/code-samples/latest/catalog/java-athena-src-main-java-aws-example-athena-ListQueryExecutionsExample.java.html
+#AWS Glue
+https://medium.com/searce/convert-csv-json-files-to-apache-parquet-using-aws-glue-a760d177b45f
+
