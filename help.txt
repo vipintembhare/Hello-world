@@ -168,3 +168,6 @@ https://stackoverflow.com/questions/18069042/spring-mvc-webapp-schedule-java-sdk
 
 #KMS Service
 https://github.com/devender/envelope-encryption-aws/tree/master/src/main/java/com/gdr/aws/kms 
+
+#Spring Transactional Isolation Propogation
+https://stackoverflow.com/questions/8490852/spring-transactional-isolation-propagation
