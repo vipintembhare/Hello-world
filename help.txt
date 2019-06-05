@@ -178,3 +178,6 @@ https://docs.aws.amazon.com/code-samples/latest/catalog/java-athena-src-main-jav
 #AWS Glue
 https://medium.com/searce/convert-csv-json-files-to-apache-parquet-using-aws-glue-a760d177b45f
 
+
+#Spring MVC Showcase
+https://github.com/spring-projects/spring-mvc-showcase
