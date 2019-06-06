@@ -181,3 +181,6 @@ https://medium.com/searce/convert-csv-json-files-to-apache-parquet-using-aws-glu
 
 #Spring MVC Showcase
 https://github.com/spring-projects/spring-mvc-showcase
+
+#Spring mvc tests
+https://github.com/pkainulainen/spring-mvc-test-examples/blob/master/controllers-unittest/pom.xml
