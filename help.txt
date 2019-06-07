@@ -184,3 +184,6 @@ https://github.com/spring-projects/spring-mvc-showcase
 
 #Spring mvc tests
 https://github.com/pkainulainen/spring-mvc-test-examples/blob/master/controllers-unittest/pom.xml
+
+#MongoLookup Spring data
+https://stackoverflow.com/questions/45860117/how-to-use-aggregation-query-with-mongoitemreader-in-spring-batch
