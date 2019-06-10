@@ -187,3 +187,6 @@ https://github.com/pkainulainen/spring-mvc-test-examples/blob/master/controllers
 
 #MongoLookup Spring data
 https://stackoverflow.com/questions/45860117/how-to-use-aggregation-query-with-mongoitemreader-in-spring-batch
+
+#Send data secure with sftp and spring batch
+https://blog.codecentric.de/en/2011/09/send-data-secure-with-sftp-and-spring-batch/
