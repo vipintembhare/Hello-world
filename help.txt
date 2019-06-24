@@ -190,3 +190,6 @@ https://stackoverflow.com/questions/45860117/how-to-use-aggregation-query-with-m
 
 #Send data secure with sftp and spring batch
 https://blog.codecentric.de/en/2011/09/send-data-secure-with-sftp-and-spring-batch/
+
+#Config Client pull behavior
+https://github.com/spring-cloud/spring-cloud-sleuth/issues/206
