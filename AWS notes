@@ -77,3 +77,23 @@ https://aws.amazon.com/blogs/devops/simplify-your-jenkins-builds-with-aws-codebu
 https://aws.amazon.com/blogs/devops/use-aws-codedeploy-to-implement-blue-green-deployments-for-aws-fargate-and-amazon-ecs/
 https://aws.amazon.com/blogs/devops/using-aws-codepipeline-to-perform-multi-region-deployments/
 https://aws.amazon.com/blogs/devops/aws-building-a-secure-cross-account-continuous-delivery-pipeline/
+
+
+Trafic Flow policy
+- only way to get geo proximity routing policy.
+policy records are not free.
+
+
+Multi-value answer records vs simple records -> healthcheck, if health check is down for one Ip, then it won't get return in multi-value answer record set
+but that is no the case with simple record sets.
+what happens if all the servers are down -> route 53 will treat all the server as healthy
+last TTL of multi-value record will be TTL of all the record
+
+Transferring already registered domain
+- min. 5 day required
+- you need to unlock transfer
+- you need auth code
+- then go to route 53 regisred domain.
+
+
+
