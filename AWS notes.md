@@ -110,7 +110,7 @@ EC2 fleet uses launch Template
 
 [VPC Design and New Capabilities for Amazon VPC](https://www.youtube.com/watch?v=rQvl-V3tLiQ)
 
-[a link](https://aws.amazon.com/architecture/?awsf.quickstart-architecture-page-filter=highlight%23new)
+[AWS Architecture Center](https://aws.amazon.com/architecture/?awsf.quickstart-architecture-page-filter=highlight%23new)
 
 [Introducing AWS Fargate - AWS Online Tech Talks](https://www.youtube.com/watch?v=wrZvlJlcZio&list=PL5bUlblGfe0KczDeLstsaHl2aCBsodc_t&index=11)
 
