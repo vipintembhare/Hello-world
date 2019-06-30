@@ -95,5 +95,13 @@ Transferring already registered domain
 - you need auth code
 - then go to route 53 regisred domain.
 
-
-
+EC2 Fleet Strategies
+---------------------
+1. Spot 
+  a. lowest price*N
+  b. diversified 
+2. On Demand
+  a. lowest priced
+  b. on-demand pririoty list
+  
+EC2 fleet uses launch Template
