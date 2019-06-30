@@ -106,18 +106,19 @@ EC2 Fleet Strategies
   
 EC2 fleet uses launch Template
 
-VPC Design and New Capabilities for Amazon VPC
-[a link](https://www.youtube.com/watch?v=rQvl-V3tLiQ)
+
+
+[VPC Design and New Capabilities for Amazon VPC](https://www.youtube.com/watch?v=rQvl-V3tLiQ)
 
 [a link](https://aws.amazon.com/architecture/?awsf.quickstart-architecture-page-filter=highlight%23new)
 
-[a link](https://www.youtube.com/watch?v=wrZvlJlcZio&list=PL5bUlblGfe0KczDeLstsaHl2aCBsodc_t&index=11)
+[Introducing AWS Fargate - AWS Online Tech Talks](https://www.youtube.com/watch?v=wrZvlJlcZio&list=PL5bUlblGfe0KczDeLstsaHl2aCBsodc_t&index=11)
 
-[a link](https://www.youtube.com/watch?v=Wvyc-VEUOns&feature=youtu.be)
+[AWS Security State of the Union](https://www.youtube.com/watch?v=Wvyc-VEUOns&feature=youtu.be)
 
-[a link](https://www.youtube.com/watch?v=wrY7XoOnysg)
+[Embracing Failure: Fault-Injection and Service Reliability](https://www.youtube.com/watch?v=wrY7XoOnysg)
 
-[a link](https://www.youtube.com/watch?v=y-xicDOIiSQ)
+[Choosing the Right EC2 Instance and Applicable Use Cases](https://www.youtube.com/watch?v=y-xicDOIiSQ)
 
-[a link](https://www.youtube.com/watch?v=iOWNZqG0RN4&list=PLQP5dDPLts650KRU0yhf8SHheMjsdreqj)
+[Optimizing Costs as You Scale on AWS](https://www.youtube.com/watch?v=iOWNZqG0RN4&list=PLQP5dDPLts650KRU0yhf8SHheMjsdreqj)
 
