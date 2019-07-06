@@ -122,5 +122,5 @@ EC2 fleet uses launch Template
 
 [Optimizing Costs as You Scale on AWS](https://www.youtube.com/watch?v=iOWNZqG0RN4&list=PLQP5dDPLts650KRU0yhf8SHheMjsdreqj)
 
-RDS https://www.youtube.com/watch?v=TJxC-B9Q9tQ
-when to use which DB https://www.youtube.com/watch?v=KWOSGVtHWqA
+[RDS] (https://www.youtube.com/watch?v=TJxC-B9Q9tQ)
+[when to use which DB] (https://www.youtube.com/watch?v=KWOSGVtHWqA)
