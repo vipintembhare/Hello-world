@@ -196,3 +196,6 @@ https://github.com/spring-cloud/spring-cloud-sleuth/issues/206
 
 #Config Client pull behavior
 https://github.com/codecentric/spring-boot-admin/issues/667
+
+#Encryption Decryption
+https://proandroiddev.com/security-best-practices-symmetric-encryption-with-aes-in-java-7616beaaade9
