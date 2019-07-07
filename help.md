@@ -199,3 +199,4 @@ https://github.com/codecentric/spring-boot-admin/issues/667
 
 # Encryption Decryption
 https://proandroiddev.com/security-best-practices-symmetric-encryption-with-aes-in-java-7616beaaade9
+https://proandroiddev.com/security-best-practices-symmetric-encryption-with-aes-in-java-and-android-part-2-b3b80e99ad36
