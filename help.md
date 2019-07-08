@@ -202,4 +202,4 @@ https://proandroiddev.com/security-best-practices-symmetric-encryption-with-aes-
 https://proandroiddev.com/security-best-practices-symmetric-encryption-with-aes-in-java-and-android-part-2-b3b80e99ad36
 
 # Key Management Service Guide
-https://info.townsendsecurity.com/definitive-guide-to-encryption-key-management-fundamentalshttps://info.townsendsecurity.com/definitive-guide-to-encryption-key-management-fundamentals
+https://info.townsendsecurity.com/definitive-guide-to-encryption-key-management-fundamentals
