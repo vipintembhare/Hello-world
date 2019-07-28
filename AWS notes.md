@@ -124,3 +124,5 @@ EC2 fleet uses launch Template
 
 [RDS] (https://www.youtube.com/watch?v=TJxC-B9Q9tQ)
 [when to use which DB] (https://www.youtube.com/watch?v=KWOSGVtHWqA)
+
+[API Gateway](https://youtu.be/XwfpPEFHKtQ)
