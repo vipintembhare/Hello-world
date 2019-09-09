@@ -38,6 +38,12 @@ Load balancing type:
    High availability
    Layer 4 and Layer 7 of OSI model
    
+   m
+Passing the AWS solutions architect - Professional exam 
+   https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
+   
+   
+   
 ELB is regional service
    Working with multiple AZ in single regional/  for multiple region , use Route 53 load balancing
    Cross zone load balancing - required in application load balancers
