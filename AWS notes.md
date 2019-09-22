@@ -132,3 +132,45 @@ EC2 fleet uses launch Template
 [when to use which DB] (https://www.youtube.com/watch?v=KWOSGVtHWqA)
 
 [API Gateway](https://youtu.be/XwfpPEFHKtQ)
+
+
+EC2 - https://aws.amazon.com/ec2/faqs/
+
+S3 - https://aws.amazon.com/s3/faqs/
+
+VPC - https://aws.amazon.com/vpc/faqs/
+
+RDS - https://aws.amazon.com/rds/faqs/
+
+IAM - https://aws.amazon.com/iam/faqs/
+
+Dynamo DB - FAQs are not good, go through the documentation, how DynamoDB works and its use cases
+
+https://docs.aws.amazon.com/dynamodb/index.html
+
+Cloudfront - https://aws.amazon.com/cloudfront/faqs/
+
+Route 53 - https://aws.amazon.com/route53/faqs/
+
+EBS - https://aws.amazon.com/ebs/faqs/
+
+EFS - https://aws.amazon.com/efs/faq/
+
+Kinesis - https://aws.amazon.com/kinesis/data-streams/faqs/
+
+
+IAM - https://www.youtube.com/watch?v=YQsK4MtsELU
+
+VPC - https://www.youtube.com/watch?v=jZAvKgqlrjY
+
+VPC - https://www.youtube.com/watch?v=fnxXNZdf6ew
+
+DynamoDB - https://www.youtube.com/watch?v=HaEPXoXVf2k
+
+Encryption - https://www.youtube.com/watch?v=gTZgxsCTfbk
+
+ELB - https://www.youtube.com/watch?v=VIgAT7vjol8
+
+S3 and Glacier Best Practices - https://www.youtube.com/watch?v=rHeTn9pHNKo
+
+S3 - Security Management - https://www.youtube.com/watch?v=x25FSsXrBqU
